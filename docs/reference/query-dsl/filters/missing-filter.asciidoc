@@ -57,7 +57,7 @@ as follows:
 --------------------------------------------------
 
 then explicit `null` values would be indexed as the string `_null_`, and the
-the following docs would *not* match the `missing` filter:
+following docs would *not* match the `missing` filter:
 
 [source,js]
 --------------------------------------------------
